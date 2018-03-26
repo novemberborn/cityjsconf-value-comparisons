@@ -1,0 +1,107 @@
+html {
+  color: #111;
+  font-size: 16px;
+  font-family: "Helvetica Neue";
+}
+
+a:link, a:visited {
+  color: inherit;
+}
+
+pre {
+  margin: 1em 0 0;
+  line-height: 2;
+}
+
+pre + pre {
+  margin-top: 0;
+}
+
+pre code {
+  padding: 0 !important;
+  overflow: auto !important;
+}
+
+.remark-notes-area {
+  font-size: 1.5rem;
+  font-family: serif;
+}
+
+.remark-code, .remark-inline-code {
+  font-family: 'Operator Mono';
+}
+
+.remark-code {
+  font-size: 1.5rem;
+}
+
+.remark-slide-content {
+  background-size: cover;
+  font-size: 1.5rem;
+  font-weight: 150;
+  padding: 1rem 4rem;
+}
+
+.remark-slide-content h1, .remark-slide-content h2, .remark-slide-content h3 {
+  font-size: 3rem;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+
+.remark-slide-content h1 code, .remark-slide-content h2 code, .remark-slide-content h3 code {
+  text-transform: none;
+}
+
+.top-align-background {
+  background-position: top;
+}
+
+.bottom-align-background {
+  background-position: bottom;
+}
+
+.left-contain-background {
+  background-position: left;
+  background-size: contain;
+}
+
+.center-heading h1, .center-heading h2, .center-heading h3 {
+  text-align: center;
+}
+
+.hide-heading h1, .hide-heading h2, .hide-heading h3 {
+  visibility: hidden;
+}
+
+.right-heading h1, .right-heading h2, .right-heading h3 {
+  text-align: right;
+}
+
+.no-link-underline a:link {
+  text-decoration: none;
+}
+
+.no-link-underline a:hover {
+  text-decoration: underline;
+}
+
+.larger-text {
+  font-size: 2rem;
+}
+
+.selfie-text {
+  color: #2a2a2a;
+}
+
+.st-paul-text {
+  color: #422849;
+}
+
+.tunnel-text {
+  color: #0f283a;
+}
+
+.white-text {
+  color: white;
+  text-shadow: 0 0 20px black;
+}

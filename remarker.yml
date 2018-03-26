@@ -2,6 +2,7 @@ title: 'Value Comparisons: How Do I Even?'
 assets: ['assets']
 css: ''
 cssFiles: ['style.css']
+dest: docs
 remarkConfig:
   highlightSpans: true
   highlightStyle: 'ascetic'
