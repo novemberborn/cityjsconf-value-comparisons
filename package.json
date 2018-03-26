@@ -1,0 +1,13 @@
+{
+  "name": "@novemberborn/2018-cityjsconf",
+  "version": "0.0.0",
+  "author": "Mark Wubben",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "remarker serve",
+    "build": "remarker build"
+  },
+  "devDependencies": {
+    "remarker": "^1.7.1"
+  }
+}

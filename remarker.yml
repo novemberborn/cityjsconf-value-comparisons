@@ -1,0 +1,11 @@
+title: 'Value Comparisons: How Do I Even?'
+assets: ['assets']
+css: ''
+cssFiles: ['style.css']
+remarkConfig:
+  highlightSpans: true
+  highlightStyle: 'ascetic'
+  navigation:
+    scroll: false
+  ratio: '16:9'
+  slideNumberFormat: ''
